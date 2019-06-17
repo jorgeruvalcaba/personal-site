@@ -1,17 +1,16 @@
 import React from 'react';
-import { Link } from 'gatsby';
 
 import Layout from '../components/layout';
-// import '../styles/index.scss';
 import Head from '../components/head';
 
 const IndexPage = () => {
   return (
     <Layout>
       <Head title="Home" />
-      <h1>Hello,</h1>
-      <h2>I'm Jorge, a fullstack developer</h2>
-      <p>Need a developer? <Link to="/contact">Contact me</Link>.</p>
+      <h1>Hello, I'm Jorge.</h1>
+      <h2>I build things for the web.</h2>
+      <p>I'm a software engineer based in Guadalajara, México specializing in building (and occasionally designing) exceptional, high-quality websites and applications.</p>
+      <a href="mailto:jorgeruvalcabav@gmail.com">Get In Touch</a>
     </Layout>
   );
 }

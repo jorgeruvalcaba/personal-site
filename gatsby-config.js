@@ -1,15 +1,21 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.org/docs/gatsby-config/
- */
-
 module.exports = {
   siteMetadata: {
-    title: `Dev Atellier`,
+    title: `Jorge Ruvalcaba 👨🏽‍💻`,
     author: `Jorge Ruvalcaba`,
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-exclude',
+      options: { paths: ['/src/pages/blog.*'] },
+    },
+    {
+      resolve: "gatsby-plugin-react-svg",
+      options: {
+        rule: {
+          include: /images/
+        }
+      }
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-contentful',
