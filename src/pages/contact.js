@@ -21,29 +21,29 @@ const ContactPage = () => {
         >
           <FontAwesomeIcon
             icon={["fab", "github"]}
-            style={{color: "#000", marginRight: "1.5rem"}}
+            style={{color: "#FFF", marginRight: "1.5rem"}}
             size="2x"
           />
         </a>
         <a
-          href="https://twitter.com/_joruv"
+          href="https://twitter.com/jorgearuv"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon
             icon={["fab", "twitter"]}
-            style={{color: "#000", marginRight: "1.5rem"}}
+            style={{color: "#FFF", marginRight: "1.5rem"}}
             size="2x"
           />
         </a>
         <a
-          href="https://www.linkedin.com/in/jorgerauvalcaba/"
+          href="https://www.linkedin.com/in/jorge-ruvalcaba/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon
             icon={["fab", "linkedin"]}
-            style={{color: "#000", marginRight: "1.5rem"}}
+            style={{color: "#FFF", marginRight: "1.5rem"}}
             size="2x"
           />
         </a>
@@ -54,7 +54,7 @@ const ContactPage = () => {
         >
           <FontAwesomeIcon
             icon={["fab", "codepen"]}
-            style={{color: "#000", marginRight: "1.5rem"}}
+            style={{color: "#FFF", marginRight: "1.5rem"}}
             size="2x"
           />
         </a>

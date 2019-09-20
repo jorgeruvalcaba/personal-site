@@ -41,7 +41,7 @@ const Header = () => {
               About
             </Link>
           </li>
-          {/* <li>
+          <li>
             <Link
               className={headerStyles.navItem}
               activeClassName={headerStyles.activeNavItem}
@@ -49,7 +49,7 @@ const Header = () => {
             >
               Blog
             </Link>
-          </li> */}
+          </li>
           <li>
             <Link
               className={headerStyles.navItem}
