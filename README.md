@@ -21,7 +21,7 @@
 3. **Install dependencies**
 
 ```sh
-  yarn
+  npm install
 ```
 
 4. **Start the development server**
