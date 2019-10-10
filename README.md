@@ -1,6 +1,9 @@
 # Personal Site v1
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/644a9d71-84bf-4362-ac8f-7f810a3faf5a/deploy-status)](https://app.netlify.com/sites/jorgeruvalcaba-personalsite/deploys)
+[![Style](https://img.shields.io/badge/code%20style-standard-brightgreen?style=flat-square)](https://img.shields.io/badge/code%20style-standard-brightgreen?style=flat-square)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jorgeruvalcaba/personal-site?style=flat-square)](https://github.com/jorgeruvalcaba/personal-site/commits/master)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/jorgeruvalcaba/personal-site?style=flat-square)
 
 > The first version of jorgeruvalcaba.dev built with [Gatsby](https://www.gatsbyjs.org/) and hosted with [Netlify](https://www.netlify.com/)
 
