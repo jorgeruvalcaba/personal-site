@@ -11,7 +11,7 @@ const ContactPage = () => {
     <Layout>
       <Head title="Contact" />
       <h1>Contact</h1>
-      <p>Although I'm not currently looking for opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!</p>
+      <p>I'm currently looking for my next gig, so my inbox is open. My background is as software engineer so feel free to reach out to me if you have an interesting position or just to say hi, I'll answer you ASAP!</p>
       <p>Say <a href="mailto:jorgeruvalcabav@gmail.com">Hi</a> or find me on other platforms:</p>
       <div className={contactStyles.linkGroup}>
         <a
